@@ -45,3 +45,6 @@ This project leverages machine learning algorithms to create a predictive model 
 ## 🚀 How to Run
 
 * Clone the repository:
+
+git clone https://github.com/sneha5476/Diabetic-prediction.git
+cd Diabetic-prediction
